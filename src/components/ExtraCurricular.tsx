@@ -12,7 +12,7 @@ import photography from "../assests/photography.png";
 import softcomputing from "../assests/softcomputing.png";
 import engage from "../assests/engage.png";
 import techwinter from "../assests/techwinter.png";
-import serb from "../assests/serb.png";
+import serb from "../assests/SERB.png";
 const achievements = [
   {
     id: "01",
