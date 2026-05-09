@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { motion } from "motion/react";
 import { Send } from "lucide-react";
-import dashboardImg from "../assests/dashboard.jpeg";
-import PosTagger from "../assests/POStagger.jpeg";
-import AiAssistent from "../assests/AIAssistent.jpeg";
-import zepfinnImg from "../assests/zepfinn.png";
+import dashboardImg from "../assets/dashboard.jpeg";
+import PosTagger from "../assets/POStagger.jpeg";
+import AiAssistent from "../assets/AIAssistent.jpeg";
+import zepfinnImg from "../assets/zepfinn.png";
 
 // Tech logos mapping
 const techLogos = {

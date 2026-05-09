@@ -1,18 +1,18 @@
 import React, { useRef } from "react";
 import { motion, useScroll, useTransform, useSpring } from "motion/react";
 import { Award, Code, Globe, Camera, Users, Zap } from "lucide-react";
-import gssoc from "../assests/Gssoc.png";
-import hectoberfest from "../assests/hacktoberfest.png";
-import gdg from "../assests/gdg.png";
-import gdgsolution from "../assests/gdgsolution.png";
-import devfest from "../assests/devfest.png";
-import confrence from "../assests/internationworkshop.png";
-import Django from "../assests/Django.png";
-import photography from "../assests/photography.png";
-import softcomputing from "../assests/softcomputing.png";
-import engage from "../assests/engage.png";
-import techwinter from "../assests/techwinter.png";
-import serb from "../assests/serb.png";
+import gssoc from "../assets/Gssoc.png";
+import hectoberfest from "../assets/hacktoberfest.png";
+import gdg from "../assets/gdg.png";
+import gdgsolution from "../assets/gdgsolution.png";
+import devfest from "../assets/devfest.png";
+import confrence from "../assets/internationworkshop.png";
+import Django from "../assets/Django.png";
+import photography from "../assets/photography.png";
+import softcomputing from "../assets/softcomputing.png";
+import engage from "../assets/engage.png";
+import techwinter from "../assets/techwinter.png";
+import serb from "../assets/serb.png";
 const achievements = [
   {
     id: "01",
