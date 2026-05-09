@@ -1,16 +1,21 @@
 <!doctype html>
 <html lang="en">
- <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>Saloni | My Portfolio</title>
 
-    <link rel="icon" type="image/png" href="./src/assets/fav.png" />
-  </head>
-  <body>
+    <!-- Fix favicon - use multiple formats for better compatibility -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/src/assets/fav.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/src/assets/fav.png" />
+    <link rel="shortcut icon" href="/src/assets/fav.png" />
+    
+    <!-- Also add apple touch icon for iOS -->
+    <link rel="apple-touch-icon" href="/src/assets/fav.png" />
+</head>
+<body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
-  </body>
+</body>
 </html>
-
